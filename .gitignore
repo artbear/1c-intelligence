@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Editor files
+.idea
+.vscode
+
+# Exclude compiled files
+build/
+lib/
+
+# npm files
+node_modules
+package-lock.json
+*.log
